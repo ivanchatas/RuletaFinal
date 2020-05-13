@@ -1,0 +1,9 @@
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\bin\Debug\netcoreapp3.1\RuletaFinal.Transversal.deps.json
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\bin\Debug\netcoreapp3.1\RuletaFinal.Transversal.dll
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\bin\Debug\netcoreapp3.1\RuletaFinal.Transversal.pdb
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\obj\Debug\netcoreapp3.1\RuletaFinal.Transversal.csprojAssemblyReference.cache
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\obj\Debug\netcoreapp3.1\RuletaFinal.Transversal.AssemblyInfoInputs.cache
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\obj\Debug\netcoreapp3.1\RuletaFinal.Transversal.AssemblyInfo.cs
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\obj\Debug\netcoreapp3.1\RuletaFinal.Transversal.dll
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\obj\Debug\netcoreapp3.1\RuletaFinal.Transversal.pdb
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.Transversal\obj\Debug\netcoreapp3.1\RuletaFinal.Transversal.csproj.CoreCompileInputs.cache

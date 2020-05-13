@@ -1,0 +1,12 @@
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\obj\Debug\netcoreapp3.1\RuletaFinal.DAL.csprojAssemblyReference.cache
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\obj\Debug\netcoreapp3.1\RuletaFinal.DAL.csproj.CoreCompileInputs.cache
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\obj\Debug\netcoreapp3.1\RuletaFinal.DAL.AssemblyInfoInputs.cache
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\obj\Debug\netcoreapp3.1\RuletaFinal.DAL.AssemblyInfo.cs
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\bin\Debug\netcoreapp3.1\RuletaFinal.DAL.deps.json
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\bin\Debug\netcoreapp3.1\RuletaFinal.DAL.dll
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\bin\Debug\netcoreapp3.1\RuletaFinal.Transversal.dll
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\bin\Debug\netcoreapp3.1\RuletaFinal.Transversal.pdb
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\obj\Debug\netcoreapp3.1\RuletaFinal.DAL.csproj.CopyComplete
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\bin\Debug\netcoreapp3.1\RuletaFinal.DAL.pdb
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\obj\Debug\netcoreapp3.1\RuletaFinal.DAL.dll
+D:\Repositorio\Ivanchatas\RuletaFinal\RuletaFinal.DAL\obj\Debug\netcoreapp3.1\RuletaFinal.DAL.pdb
